@@ -1,10 +1,11 @@
+<img width="100%" height="236" style="border-radius: 20px;" alt="Póster Bonito" src="https://github.com/user-attachments/assets/d4223144-c097-47cd-9cd6-a2a87fb592d5" />
 <div align="center">
 
 # hola, soy Ryu 👋
 
 > *creando cosas random*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9E1&center=true&vCenter=true&width=435&lines=Python+Developer;Discord+Bot+Enjoyer;AI+%2B+Automation;D%26D+Addict;ITZY+fan+with+too+many+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F5A9E1&center=true&vCenter=true&width=435&lines=Python+Developer;Discord+Bot+Enjoyer;D%26D+Addict;ITZY+fan+with+too+many+projects" />
 
 </div>
 
@@ -62,15 +63,7 @@ Proyecto personal/fanpage dedicado a ITZY con contenido visual, organización y 
 
 ---
 
-## 📈 stats porque quedan lindos
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BenjaLen&show_icons=true&theme=transparent&hide_border=true&title_color=F5A9E1&icon_color=F5A9E1&text_color=FFFFFF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaLen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9E1&text_color=FFFFFF"/>
-
-</div>
 
 ---
 
