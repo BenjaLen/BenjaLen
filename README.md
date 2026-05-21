@@ -66,9 +66,9 @@ Proyecto personal/fanpage dedicado a ITZY con contenido visual, organización y 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9E1&icon_color=F5A9E1&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BenjaLen&show_icons=true&theme=transparent&hide_border=true&title_color=F5A9E1&icon_color=F5A9E1&text_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9E1&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaLen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F5A9E1&text_color=FFFFFF"/>
 
 </div>
 
